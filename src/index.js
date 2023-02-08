@@ -174,7 +174,7 @@
                 // close prompt
                 this.hasPrompt = false;
 
-                return delay(200)
+                return delay(5000)
                     // send user msg
                     .then(() => this.sendMsg(content, AUTHOR.ME))
                     .then(() => delay(300))
