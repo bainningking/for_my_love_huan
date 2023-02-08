@@ -63,8 +63,14 @@
             ]
         ],
         "responses": [{
-            "content": "我愿意",
+            "content": "我也爱你，小哥",
             "nextAuthor": ["0001"]
+        },{
+            "content": "么么哒，小哥",
+            "nextAuthor": ["0002"]
+        },{
+            "content": "老公，老公，老公",
+            "nextAuthor": ["0003"]
         }]
     }, {
         "id": "0001",
